@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\bin\Debug\netcoreapp3.1\01.strings.exe
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\bin\Debug\netcoreapp3.1\01.strings.deps.json
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\bin\Debug\netcoreapp3.1\01.strings.runtimeconfig.json
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\bin\Debug\netcoreapp3.1\01.strings.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\bin\Debug\netcoreapp3.1\01.strings.dll
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\bin\Debug\netcoreapp3.1\01.strings.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\obj\Debug\netcoreapp3.1\01.strings.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\obj\Debug\netcoreapp3.1\01.strings.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\obj\Debug\netcoreapp3.1\01.strings.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\obj\Debug\netcoreapp3.1\01.strings.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\obj\Debug\netcoreapp3.1\01.strings.dll
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\obj\Debug\netcoreapp3.1\01.strings.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\01.strings\obj\Debug\netcoreapp3.1\01.strings.genruntimeconfig.cache
